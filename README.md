@@ -11,4 +11,5 @@ and generates an output.txt that contains a number of these classes ranked by
 - number of super-types
 
 To run the program, in the directory of the file use the command: java Main input.txt output.txt <insert number for top N results>
+
 for example: java Main input.txt output.txt 3
